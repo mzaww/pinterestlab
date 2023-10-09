@@ -1,0 +1,26 @@
+/* External Styles - externalstyles.css */
+
+.pin {
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    color: #333;
+}
+
+.pin a {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.pin a:hover {
+    background-color: #555;
+}
